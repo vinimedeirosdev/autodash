@@ -1,7 +1,7 @@
 
 # 🚗 AutoDash - Dashboard de Vendas de Autopeças
 
-Projeto de automação e visualização de dados em Python, desenvolvido com foco na vaga de Python Dev Jr da Kaizen - A Casa da Autopeça.
+Projeto de automação e visualização de dados em Python.
 
 ## 📊 Funcionalidades
 
@@ -51,13 +51,6 @@ streamlit run main.py
 - Pandas
 - Plotly
 - OpenPyXL
-
-## ✨ Possíveis melhorias
-
-- Integração com API externa (dados reais)
-- Exportação em PDF
-- Dashboard multi-página
-- Autenticação e permissões
 
 ## 👨‍💻 Autor
 
