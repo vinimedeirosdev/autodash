@@ -1,0 +1,301 @@
+data_venda,filial,nome_produto,categoria,valor,quantidade,cliente
+2025-04-22,Planaltina-DF,Correia dentada,Motor,934.74,3,12345678000100
+2025-02-18,Gama,Correia dentada,Motor,241.66,1,12345678000100
+2025-02-19,SOF Sul,Óleo 20W50,Lubrificantes,617.72,2,88899900000155
+2025-05-07,Ceilândia,Amortecedor,Suspensão,278.16,4,11122233000144
+2025-04-26,Asa Norte,Pastilha de freio,Freios,401.6,4,11122233000144
+2025-04-03,Gama,Amortecedor,Suspensão,261.92,2,55566677000122
+2025-04-13,Gama,Bateria 60Ah,Elétrica,1816.05,5,12345678000100
+2025-04-28,Asa Norte,Filtro de ar,Filtros,222.84,2,11122233000144
+2025-04-17,SOF Sul,Correia dentada,Motor,180.56,1,55566677000122
+2025-03-13,Ceilândia,Velas de ignição,Ignição,1077.12,3,55566677000122
+2025-03-07,Asa Norte,Filtro de ar,Filtros,88.46,1,11122233000144
+2025-03-13,Asa Norte,Amortecedor,Suspensão,177.52,4,88899900000155
+2025-03-23,Planaltina-DF,Filtro de ar,Filtros,775.44,4,88899900000155
+2025-02-22,SOF Sul,Amortecedor,Suspensão,979.16,4,11122233000144
+2025-03-23,SOF Sul,Velas de ignição,Ignição,1077.16,4,88899900000155
+2025-03-16,Planaltina-DF,Amortecedor,Suspensão,372.0,3,55566677000122
+2025-04-17,SOF Sul,Pastilha de freio,Freios,211.89,3,98765432000199
+2025-05-19,Ceilândia,Correia dentada,Motor,416.26,2,55566677000122
+2025-02-18,Gama,Velas de ignição,Ignição,663.2,4,55566677000122
+2025-04-28,SOF Sul,Pastilha de freio,Freios,779.04,4,11122233000144
+2025-05-14,SOF Sul,Pastilha de freio,Freios,398.32,4,55566677000122
+2025-05-13,Asa Norte,Correia dentada,Motor,426.75,3,11122233000144
+2025-05-09,Planaltina-DF,Correia dentada,Motor,174.29,1,88899900000155
+2025-03-11,Asa Norte,Filtro de ar,Filtros,1181.76,4,88899900000155
+2025-05-14,Ceilândia,Velas de ignição,Ignição,830.55,3,11122233000144
+2025-05-10,SOF Sul,Filtro de ar,Filtros,110.86,1,11122233000144
+2025-05-10,Asa Norte,Óleo 20W50,Lubrificantes,585.2,5,11122233000144
+2025-02-22,Ceilândia,Velas de ignição,Ignição,207.83,1,11122233000144
+2025-04-09,Gama,Bateria 60Ah,Elétrica,1042.2,3,12345678000100
+2025-05-03,Ceilândia,Correia dentada,Motor,297.99,1,12345678000100
+2025-05-12,Gama,Correia dentada,Motor,210.72,2,11122233000144
+2025-05-17,Asa Norte,Velas de ignição,Ignição,493.3,5,88899900000155
+2025-03-12,Planaltina-DF,Velas de ignição,Ignição,162.14,1,12345678000100
+2025-02-20,Gama,Correia dentada,Motor,781.5,3,98765432000199
+2025-04-27,SOF Sul,Óleo 20W50,Lubrificantes,388.38,3,55566677000122
+2025-04-01,Gama,Filtro de ar,Filtros,1360.16,4,12345678000100
+2025-04-13,Gama,Bateria 60Ah,Elétrica,1099.05,3,88899900000155
+2025-05-03,SOF Sul,Amortecedor,Suspensão,519.6,5,55566677000122
+2025-03-13,Gama,Amortecedor,Suspensão,162.68,1,12345678000100
+2025-05-01,Gama,Pastilha de freio,Freios,255.25,5,88899900000155
+2025-02-27,Gama,Pastilha de freio,Freios,332.3,1,88899900000155
+2025-04-30,Planaltina-DF,Filtro de ar,Filtros,1213.32,4,88899900000155
+2025-02-19,Planaltina-DF,Bateria 60Ah,Elétrica,563.24,2,98765432000199
+2025-03-18,Asa Norte,Correia dentada,Motor,70.34,1,88899900000155
+2025-05-08,SOF Sul,Amortecedor,Suspensão,786.72,2,55566677000122
+2025-04-03,Asa Norte,Pastilha de freio,Freios,1870.65,5,98765432000199
+2025-04-03,Asa Norte,Pastilha de freio,Freios,381.95,5,88899900000155
+2025-03-31,Asa Norte,Velas de ignição,Ignição,731.2,4,98765432000199
+2025-05-17,Planaltina-DF,Correia dentada,Motor,396.5,2,88899900000155
+2025-05-15,SOF Sul,Correia dentada,Motor,470.04,4,98765432000199
+2025-05-10,Ceilândia,Correia dentada,Motor,389.95,5,55566677000122
+2025-02-28,Gama,Óleo 20W50,Lubrificantes,1746.1,5,88899900000155
+2025-04-17,Asa Norte,Óleo 20W50,Lubrificantes,1907.2,5,98765432000199
+2025-03-13,Ceilândia,Amortecedor,Suspensão,772.65,3,98765432000199
+2025-04-27,Planaltina-DF,Velas de ignição,Ignição,492.6,5,55566677000122
+2025-03-20,SOF Sul,Filtro de ar,Filtros,51.51,1,11122233000144
+2025-03-22,Gama,Óleo 20W50,Lubrificantes,528.36,2,12345678000100
+2025-03-03,Planaltina-DF,Correia dentada,Motor,414.03,3,98765432000199
+2025-04-03,Asa Norte,Filtro de ar,Filtros,100.48,1,12345678000100
+2025-03-06,SOF Sul,Óleo 20W50,Lubrificantes,139.86,1,98765432000199
+2025-05-16,Asa Norte,Amortecedor,Suspensão,1274.56,4,12345678000100
+2025-04-26,Asa Norte,Amortecedor,Suspensão,1325.6,5,12345678000100
+2025-05-05,Planaltina-DF,Velas de ignição,Ignição,854.05,5,88899900000155
+2025-03-21,SOF Sul,Filtro de ar,Filtros,216.26,1,55566677000122
+2025-03-26,Gama,Filtro de ar,Filtros,750.92,4,11122233000144
+2025-05-07,Asa Norte,Amortecedor,Suspensão,576.76,2,88899900000155
+2025-03-01,Planaltina-DF,Pastilha de freio,Freios,106.86,2,98765432000199
+2025-04-24,SOF Sul,Velas de ignição,Ignição,378.56,4,88899900000155
+2025-02-21,Asa Norte,Óleo 20W50,Lubrificantes,162.38,1,98765432000199
+2025-03-27,SOF Sul,Pastilha de freio,Freios,618.56,2,11122233000144
+2025-03-15,Gama,Correia dentada,Motor,576.96,2,88899900000155
+2025-03-25,Ceilândia,Filtro de ar,Filtros,540.87,3,88899900000155
+2025-05-12,Ceilândia,Correia dentada,Motor,279.87,3,55566677000122
+2025-03-12,Ceilândia,Amortecedor,Suspensão,112.36,2,12345678000100
+2025-04-10,Asa Norte,Amortecedor,Suspensão,632.24,2,98765432000199
+2025-04-25,Planaltina-DF,Pastilha de freio,Freios,642.52,2,12345678000100
+2025-04-13,SOF Sul,Bateria 60Ah,Elétrica,904.62,3,11122233000144
+2025-04-03,Ceilândia,Amortecedor,Suspensão,1179.04,4,55566677000122
+2025-02-21,Asa Norte,Correia dentada,Motor,571.85,5,98765432000199
+2025-03-29,Ceilândia,Bateria 60Ah,Elétrica,143.33,1,11122233000144
+2025-05-16,Planaltina-DF,Velas de ignição,Ignição,298.9,5,88899900000155
+2025-04-07,Gama,Filtro de ar,Filtros,357.42,3,88899900000155
+2025-04-20,Gama,Velas de ignição,Ignição,375.66,2,98765432000199
+2025-04-04,Gama,Óleo 20W50,Lubrificantes,556.46,2,12345678000100
+2025-05-09,Gama,Óleo 20W50,Lubrificantes,520.45,5,55566677000122
+2025-04-20,Ceilândia,Filtro de ar,Filtros,252.35,5,12345678000100
+2025-05-04,SOF Sul,Velas de ignição,Ignição,1874.8,5,11122233000144
+2025-03-29,Ceilândia,Bateria 60Ah,Elétrica,741.8,5,11122233000144
+2025-04-18,Gama,Filtro de ar,Filtros,720.04,2,88899900000155
+2025-02-24,Gama,Filtro de ar,Filtros,1648.65,5,12345678000100
+2025-02-25,SOF Sul,Bateria 60Ah,Elétrica,855.6,5,11122233000144
+2025-03-22,Ceilândia,Pastilha de freio,Freios,1579.7,5,11122233000144
+2025-04-11,Ceilândia,Velas de ignição,Ignição,159.58,2,11122233000144
+2025-03-18,Ceilândia,Correia dentada,Motor,200.96,1,88899900000155
+2025-04-09,Ceilândia,Pastilha de freio,Freios,1315.1,5,98765432000199
+2025-03-18,Planaltina-DF,Bateria 60Ah,Elétrica,455.04,3,55566677000122
+2025-03-09,SOF Sul,Velas de ignição,Ignição,455.82,3,55566677000122
+2025-03-14,Gama,Correia dentada,Motor,683.44,4,98765432000199
+2025-05-18,Ceilândia,Filtro de ar,Filtros,516.92,4,55566677000122
+2025-03-18,Asa Norte,Bateria 60Ah,Elétrica,191.33,1,98765432000199
+2025-04-07,Planaltina-DF,Correia dentada,Motor,1243.6,5,98765432000199
+2025-03-15,Gama,Bateria 60Ah,Elétrica,421.3,5,88899900000155
+2025-03-22,Planaltina-DF,Pastilha de freio,Freios,88.28,1,55566677000122
+2025-02-27,SOF Sul,Amortecedor,Suspensão,382.1,1,11122233000144
+2025-03-25,Asa Norte,Correia dentada,Motor,1811.2,5,88899900000155
+2025-04-08,Gama,Pastilha de freio,Freios,376.83,1,55566677000122
+2025-03-07,Planaltina-DF,Amortecedor,Suspensão,397.8,3,88899900000155
+2025-02-28,SOF Sul,Correia dentada,Motor,349.15,1,88899900000155
+2025-04-03,Ceilândia,Filtro de ar,Filtros,872.16,3,88899900000155
+2025-03-20,SOF Sul,Velas de ignição,Ignição,563.36,4,11122233000144
+2025-03-13,SOF Sul,Bateria 60Ah,Elétrica,762.75,5,98765432000199
+2025-03-24,Planaltina-DF,Óleo 20W50,Lubrificantes,320.64,1,12345678000100
+2025-03-29,Asa Norte,Correia dentada,Motor,64.5,1,88899900000155
+2025-03-01,Gama,Filtro de ar,Filtros,374.73,1,11122233000144
+2025-03-12,SOF Sul,Óleo 20W50,Lubrificantes,575.2,5,12345678000100
+2025-05-10,Ceilândia,Bateria 60Ah,Elétrica,1508.3,5,88899900000155
+2025-05-06,Gama,Pastilha de freio,Freios,365.52,3,11122233000144
+2025-05-03,SOF Sul,Óleo 20W50,Lubrificantes,793.44,4,88899900000155
+2025-04-03,Planaltina-DF,Pastilha de freio,Freios,192.29,1,88899900000155
+2025-03-20,Gama,Velas de ignição,Ignição,350.7,1,11122233000144
+2025-04-05,Planaltina-DF,Bateria 60Ah,Elétrica,839.55,3,88899900000155
+2025-03-28,SOF Sul,Correia dentada,Motor,620.0,5,55566677000122
+2025-04-30,Ceilândia,Bateria 60Ah,Elétrica,1624.45,5,88899900000155
+2025-04-03,Ceilândia,Amortecedor,Suspensão,620.24,2,98765432000199
+2025-02-20,SOF Sul,Amortecedor,Suspensão,1187.84,4,55566677000122
+2025-03-01,Planaltina-DF,Amortecedor,Suspensão,327.35,1,11122233000144
+2025-03-29,SOF Sul,Correia dentada,Motor,545.14,2,11122233000144
+2025-04-22,Planaltina-DF,Bateria 60Ah,Elétrica,194.6,2,55566677000122
+2025-04-21,Planaltina-DF,Pastilha de freio,Freios,419.64,3,55566677000122
+2025-04-19,Ceilândia,Bateria 60Ah,Elétrica,108.66,1,11122233000144
+2025-05-17,Gama,Filtro de ar,Filtros,187.84,4,55566677000122
+2025-05-18,Gama,Bateria 60Ah,Elétrica,1982.0,5,98765432000199
+2025-03-22,Ceilândia,Amortecedor,Suspensão,181.76,4,12345678000100
+2025-04-11,SOF Sul,Amortecedor,Suspensão,593.76,4,11122233000144
+2025-02-28,Ceilândia,Bateria 60Ah,Elétrica,103.26,2,88899900000155
+2025-02-25,Ceilândia,Velas de ignição,Ignição,758.55,3,55566677000122
+2025-05-16,Asa Norte,Amortecedor,Suspensão,152.52,3,11122233000144
+2025-04-08,Planaltina-DF,Amortecedor,Suspensão,296.72,1,11122233000144
+2025-03-16,Ceilândia,Correia dentada,Motor,247.91,1,98765432000199
+2025-04-28,Gama,Filtro de ar,Filtros,138.44,4,55566677000122
+2025-02-22,Asa Norte,Pastilha de freio,Freios,913.05,5,12345678000100
+2025-04-27,Planaltina-DF,Pastilha de freio,Freios,970.68,3,98765432000199
+2025-03-02,SOF Sul,Correia dentada,Motor,155.96,1,55566677000122
+2025-05-13,SOF Sul,Filtro de ar,Filtros,117.06,2,88899900000155
+2025-02-23,Ceilândia,Velas de ignição,Ignição,305.25,5,88899900000155
+2025-04-23,Gama,Amortecedor,Suspensão,558.06,2,55566677000122
+2025-04-19,Planaltina-DF,Amortecedor,Suspensão,227.31,3,11122233000144
+2025-04-26,Gama,Óleo 20W50,Lubrificantes,565.56,3,12345678000100
+2025-03-30,Ceilândia,Pastilha de freio,Freios,976.56,4,55566677000122
+2025-04-17,SOF Sul,Óleo 20W50,Lubrificantes,435.33,3,88899900000155
+2025-03-01,SOF Sul,Bateria 60Ah,Elétrica,341.54,2,88899900000155
+2025-02-26,Asa Norte,Correia dentada,Motor,273.12,4,11122233000144
+2025-04-19,SOF Sul,Pastilha de freio,Freios,217.6,5,12345678000100
+2025-05-15,Asa Norte,Pastilha de freio,Freios,303.84,4,12345678000100
+2025-04-27,Planaltina-DF,Filtro de ar,Filtros,1314.68,4,12345678000100
+2025-03-29,Planaltina-DF,Bateria 60Ah,Elétrica,496.04,2,88899900000155
+2025-03-12,Asa Norte,Velas de ignição,Ignição,328.4,1,88899900000155
+2025-03-07,Ceilândia,Óleo 20W50,Lubrificantes,797.64,2,11122233000144
+2025-03-12,SOF Sul,Pastilha de freio,Freios,61.84,1,88899900000155
+2025-03-06,Ceilândia,Velas de ignição,Ignição,1010.96,4,11122233000144
+2025-03-01,Gama,Velas de ignição,Ignição,753.8,4,12345678000100
+2025-03-05,SOF Sul,Pastilha de freio,Freios,908.67,3,12345678000100
+2025-04-14,Gama,Pastilha de freio,Freios,1284.56,4,12345678000100
+2025-03-25,Gama,Pastilha de freio,Freios,1340.15,5,55566677000122
+2025-05-16,Ceilândia,Correia dentada,Motor,135.64,4,11122233000144
+2025-02-18,Asa Norte,Pastilha de freio,Freios,346.56,4,98765432000199
+2025-04-13,Planaltina-DF,Correia dentada,Motor,98.51,1,98765432000199
+2025-05-10,Ceilândia,Óleo 20W50,Lubrificantes,143.81,1,88899900000155
+2025-04-04,Planaltina-DF,Velas de ignição,Ignição,1855.9,5,11122233000144
+2025-04-23,Gama,Amortecedor,Suspensão,626.7,3,55566677000122
+2025-05-09,Gama,Pastilha de freio,Freios,419.52,2,88899900000155
+2025-03-24,Gama,Bateria 60Ah,Elétrica,639.32,4,88899900000155
+2025-04-26,Gama,Óleo 20W50,Lubrificantes,1353.12,4,12345678000100
+2025-04-08,Asa Norte,Velas de ignição,Ignição,247.88,4,55566677000122
+2025-05-04,Gama,Correia dentada,Motor,1382.12,4,88899900000155
+2025-04-16,Ceilândia,Amortecedor,Suspensão,1918.75,5,55566677000122
+2025-04-20,Ceilândia,Pastilha de freio,Freios,1795.0,5,11122233000144
+2025-05-07,Planaltina-DF,Pastilha de freio,Freios,1050.25,5,55566677000122
+2025-04-17,Planaltina-DF,Filtro de ar,Filtros,497.76,4,11122233000144
+2025-03-05,Planaltina-DF,Pastilha de freio,Freios,135.13,1,88899900000155
+2025-05-04,SOF Sul,Amortecedor,Suspensão,1982.85,5,98765432000199
+2025-02-27,SOF Sul,Filtro de ar,Filtros,584.66,2,98765432000199
+2025-05-08,Asa Norte,Bateria 60Ah,Elétrica,249.75,5,12345678000100
+2025-04-18,Asa Norte,Óleo 20W50,Lubrificantes,1250.15,5,88899900000155
+2025-04-22,Ceilândia,Bateria 60Ah,Elétrica,1253.4,5,55566677000122
+2025-05-09,Gama,Pastilha de freio,Freios,191.8,4,98765432000199
+2025-04-08,SOF Sul,Correia dentada,Motor,1392.48,4,88899900000155
+2025-05-04,Gama,Bateria 60Ah,Elétrica,301.18,2,98765432000199
+2025-05-11,Gama,Pastilha de freio,Freios,998.2,4,98765432000199
+2025-03-20,Gama,Bateria 60Ah,Elétrica,193.44,1,55566677000122
+2025-02-22,Planaltina-DF,Bateria 60Ah,Elétrica,1385.64,4,11122233000144
+2025-03-21,Planaltina-DF,Amortecedor,Suspensão,1870.0,5,12345678000100
+2025-04-13,Ceilândia,Velas de ignição,Ignição,141.3,1,12345678000100
+2025-03-21,Asa Norte,Bateria 60Ah,Elétrica,517.62,3,98765432000199
+2025-02-26,Ceilândia,Filtro de ar,Filtros,349.09,1,11122233000144
+2025-04-12,SOF Sul,Pastilha de freio,Freios,424.5,3,55566677000122
+2025-05-11,Planaltina-DF,Pastilha de freio,Freios,1141.98,3,11122233000144
+2025-03-27,Gama,Amortecedor,Suspensão,1060.8,5,98765432000199
+2025-05-10,Gama,Pastilha de freio,Freios,1251.88,4,98765432000199
+2025-02-28,Ceilândia,Velas de ignição,Ignição,377.9,5,98765432000199
+2025-04-10,Asa Norte,Amortecedor,Suspensão,344.31,3,88899900000155
+2025-03-12,Planaltina-DF,Pastilha de freio,Freios,406.71,3,55566677000122
+2025-04-10,Ceilândia,Pastilha de freio,Freios,243.88,1,98765432000199
+2025-04-30,Planaltina-DF,Correia dentada,Motor,353.55,1,98765432000199
+2025-04-12,Gama,Óleo 20W50,Lubrificantes,349.62,3,88899900000155
+2025-02-26,Asa Norte,Filtro de ar,Filtros,1366.05,5,11122233000144
+2025-03-31,Planaltina-DF,Velas de ignição,Ignição,1802.05,5,12345678000100
+2025-04-23,Ceilândia,Bateria 60Ah,Elétrica,105.14,1,12345678000100
+2025-03-24,Planaltina-DF,Correia dentada,Motor,126.52,4,11122233000144
+2025-03-09,Planaltina-DF,Amortecedor,Suspensão,1701.95,5,88899900000155
+2025-04-25,Gama,Pastilha de freio,Freios,693.76,2,55566677000122
+2025-05-17,Asa Norte,Filtro de ar,Filtros,912.65,5,98765432000199
+2025-03-08,Ceilândia,Bateria 60Ah,Elétrica,550.26,2,88899900000155
+2025-03-06,Gama,Velas de ignição,Ignição,152.42,1,88899900000155
+2025-03-05,Gama,Bateria 60Ah,Elétrica,279.63,1,88899900000155
+2025-03-02,Asa Norte,Pastilha de freio,Freios,356.52,4,88899900000155
+2025-04-26,Ceilândia,Correia dentada,Motor,312.0,3,55566677000122
+2025-05-03,Gama,Filtro de ar,Filtros,660.88,4,12345678000100
+2025-03-21,Asa Norte,Filtro de ar,Filtros,88.7,2,98765432000199
+2025-04-24,SOF Sul,Pastilha de freio,Freios,1118.31,3,98765432000199
+2025-04-29,Ceilândia,Amortecedor,Suspensão,338.05,1,98765432000199
+2025-02-24,Asa Norte,Bateria 60Ah,Elétrica,86.76,1,55566677000122
+2025-03-05,Planaltina-DF,Velas de ignição,Ignição,233.56,1,11122233000144
+2025-05-16,Gama,Velas de ignição,Ignição,208.9,2,88899900000155
+2025-03-08,Gama,Amortecedor,Suspensão,57.05,1,98765432000199
+2025-03-25,Planaltina-DF,Amortecedor,Suspensão,287.81,1,12345678000100
+2025-03-01,Ceilândia,Velas de ignição,Ignição,262.08,3,55566677000122
+2025-04-03,Ceilândia,Correia dentada,Motor,1100.7,5,88899900000155
+2025-05-03,Asa Norte,Amortecedor,Suspensão,142.42,2,98765432000199
+2025-03-26,SOF Sul,Bateria 60Ah,Elétrica,718.32,4,12345678000100
+2025-03-05,Ceilândia,Filtro de ar,Filtros,1492.64,4,55566677000122
+2025-03-28,Planaltina-DF,Velas de ignição,Ignição,619.1,2,88899900000155
+2025-03-01,Ceilândia,Amortecedor,Suspensão,202.65,5,88899900000155
+2025-04-12,Gama,Bateria 60Ah,Elétrica,239.06,1,55566677000122
+2025-02-20,Asa Norte,Correia dentada,Motor,105.44,1,98765432000199
+2025-03-08,Asa Norte,Pastilha de freio,Freios,160.11,3,55566677000122
+2025-04-08,SOF Sul,Velas de ignição,Ignição,269.74,1,55566677000122
+2025-05-15,Planaltina-DF,Amortecedor,Suspensão,1182.3,3,11122233000144
+2025-04-05,Asa Norte,Velas de ignição,Ignição,248.96,1,11122233000144
+2025-04-07,SOF Sul,Filtro de ar,Filtros,576.75,3,55566677000122
+2025-04-16,Planaltina-DF,Bateria 60Ah,Elétrica,397.88,1,55566677000122
+2025-04-15,Ceilândia,Correia dentada,Motor,833.3,5,98765432000199
+2025-03-18,Ceilândia,Velas de ignição,Ignição,238.97,1,88899900000155
+2025-04-07,Gama,Correia dentada,Motor,127.11,1,88899900000155
+2025-05-09,SOF Sul,Amortecedor,Suspensão,201.45,1,55566677000122
+2025-03-07,Gama,Velas de ignição,Ignição,180.78,2,88899900000155
+2025-05-17,Planaltina-DF,Óleo 20W50,Lubrificantes,228.66,1,11122233000144
+2025-04-10,Asa Norte,Pastilha de freio,Freios,224.33,1,98765432000199
+2025-05-01,Gama,Bateria 60Ah,Elétrica,605.8,5,12345678000100
+2025-03-28,Ceilândia,Filtro de ar,Filtros,1177.23,3,12345678000100
+2025-04-07,Planaltina-DF,Bateria 60Ah,Elétrica,620.96,4,11122233000144
+2025-05-05,Planaltina-DF,Correia dentada,Motor,843.2,5,11122233000144
+2025-04-17,Planaltina-DF,Pastilha de freio,Freios,687.28,2,12345678000100
+2025-03-23,SOF Sul,Velas de ignição,Ignição,310.78,2,98765432000199
+2025-03-27,Asa Norte,Amortecedor,Suspensão,241.04,4,12345678000100
+2025-03-09,Asa Norte,Pastilha de freio,Freios,1154.44,4,12345678000100
+2025-05-18,Ceilândia,Velas de ignição,Ignição,110.82,3,12345678000100
+2025-02-27,Gama,Correia dentada,Motor,465.36,4,12345678000100
+2025-03-06,Ceilândia,Amortecedor,Suspensão,799.32,2,11122233000144
+2025-03-26,SOF Sul,Correia dentada,Motor,301.8,5,98765432000199
+2025-03-26,SOF Sul,Bateria 60Ah,Elétrica,1465.76,4,11122233000144
+2025-03-20,Gama,Pastilha de freio,Freios,1251.15,5,55566677000122
+2025-04-28,SOF Sul,Amortecedor,Suspensão,438.3,2,11122233000144
+2025-02-27,Gama,Óleo 20W50,Lubrificantes,1521.2,4,55566677000122
+2025-02-22,Planaltina-DF,Pastilha de freio,Freios,179.55,1,12345678000100
+2025-03-18,SOF Sul,Bateria 60Ah,Elétrica,1056.51,3,11122233000144
+2025-04-15,Ceilândia,Correia dentada,Motor,256.12,2,98765432000199
+2025-03-09,SOF Sul,Correia dentada,Motor,1214.52,4,88899900000155
+2025-02-26,SOF Sul,Correia dentada,Motor,1845.95,5,12345678000100
+2025-04-01,SOF Sul,Bateria 60Ah,Elétrica,390.92,4,98765432000199
+2025-03-22,Ceilândia,Filtro de ar,Filtros,967.76,4,88899900000155
+2025-04-12,Ceilândia,Óleo 20W50,Lubrificantes,552.72,3,11122233000144
+2025-04-17,Asa Norte,Bateria 60Ah,Elétrica,46.78,1,88899900000155
+2025-04-15,SOF Sul,Filtro de ar,Filtros,231.16,4,55566677000122
+2025-05-10,Gama,Correia dentada,Motor,723.6,5,98765432000199
+2025-05-19,Planaltina-DF,Velas de ignição,Ignição,177.66,2,11122233000144
+2025-03-01,Gama,Óleo 20W50,Lubrificantes,160.2,3,55566677000122
+2025-05-16,Ceilândia,Correia dentada,Motor,761.18,2,12345678000100
+2025-04-01,Ceilândia,Bateria 60Ah,Elétrica,131.74,1,11122233000144
+2025-05-11,Gama,Bateria 60Ah,Elétrica,803.15,5,88899900000155
+2025-04-01,Ceilândia,Amortecedor,Suspensão,1385.2,5,12345678000100
+2025-03-02,Planaltina-DF,Filtro de ar,Filtros,183.18,1,55566677000122
+2025-04-01,Planaltina-DF,Amortecedor,Suspensão,1772.75,5,55566677000122
+2025-04-28,Planaltina-DF,Velas de ignição,Ignição,487.5,5,55566677000122
+2025-02-21,Gama,Pastilha de freio,Freios,227.92,4,98765432000199
+2025-03-05,Gama,Óleo 20W50,Lubrificantes,311.02,1,12345678000100
+2025-03-04,Planaltina-DF,Amortecedor,Suspensão,72.88,2,88899900000155
+2025-04-11,Ceilândia,Correia dentada,Motor,259.75,1,88899900000155
+2025-03-23,Ceilândia,Pastilha de freio,Freios,1340.6,5,98765432000199
+2025-03-27,Gama,Velas de ignição,Ignição,557.95,5,98765432000199
+2025-05-07,Asa Norte,Correia dentada,Motor,969.96,3,12345678000100
+2025-02-18,SOF Sul,Filtro de ar,Filtros,476.22,2,12345678000100
+2025-03-23,Planaltina-DF,Óleo 20W50,Lubrificantes,791.2,5,98765432000199
+2025-04-17,Planaltina-DF,Velas de ignição,Ignição,140.4,4,11122233000144
+2025-03-14,SOF Sul,Velas de ignição,Ignição,181.96,4,55566677000122
+2025-03-29,Gama,Correia dentada,Motor,274.86,1,12345678000100
+2025-04-17,Planaltina-DF,Correia dentada,Motor,1204.05,5,11122233000144
+2025-03-13,Asa Norte,Filtro de ar,Filtros,363.84,3,55566677000122
+2025-05-08,Asa Norte,Pastilha de freio,Freios,353.83,1,12345678000100
+2025-04-22,Asa Norte,Filtro de ar,Filtros,71.27,1,12345678000100
