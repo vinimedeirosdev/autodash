@@ -52,13 +52,6 @@ streamlit run main.py
 - Plotly
 - OpenPyXL
 
-## ✨ Possíveis melhorias
-
-- Integração com API externa (dados reais)
-- Exportação em PDF
-- Dashboard multi-página
-- Autenticação e permissões
-
 ## 👨‍💻 Autor
 
 Vinícius – Desenvolvedor Full Stack.
